@@ -1,4 +1,4 @@
-# Bank Transaction Management System
+# Bank 
 
 This project is a Python-based GUI application for managing bank transactions. It provides features such as user registration, login, balance check, deposit, and withdrawal, with a user-friendly interface built using Tkinter.
 
